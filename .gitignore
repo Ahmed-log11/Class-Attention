@@ -1,0 +1,9 @@
+# Extracted dataset folder (the zip itself is included)
+dataset/
+
+# Training outputs
+runs/
+yolov8n.pt
+
+__pycache__/
+.ipynb_checkpoints/
